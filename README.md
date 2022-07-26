@@ -24,7 +24,17 @@ We recommend the simple import via Maven:
 <dependency>
 <groupId>io.github.thewebcode</groupId>
 <artifactId>InventoryX</artifactId>
-<version>1.0.1</version>
+<version>MC-VERSION</version>
+</dependency>
+```
+
+Replace MC-VERSION with the Minecraft version. As an an example:
+
+```
+<dependency>
+<groupId>io.github.thewebcode</groupId>
+<artifactId>InventoryX</artifactId>
+<version>1.19</version>
 </dependency>
 ```
 
