@@ -30,6 +30,15 @@ We recommend the simple import via Maven:
 
 Unfortunately, an import via Gradle is not available at the moment. Instead, you can download the library [here](https://github.com/TheWebcode/InventoryX/releases) and import it into your project.
 
+## What versions is InventoryX compatible with?
+
+| Version | Paper | Spigot |
+|---------|-------|--------|
+| 1.19.1  |   ❌    |   ❌     |
+| 1.19.0  | ✅     |    ✅    |
+
+
+
 ## How to use InventoryX?
 
 This is a fairly simple inventory, and almost all of the methods are self-explanatory:
