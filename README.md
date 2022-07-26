@@ -1,6 +1,6 @@
 # Inventory X
 
-## What is Inventoryx?
+## What is InventoryX?
 
 InventoryX is a painstakingly developed plugin to make it easier for Minecraft plugin programmers to create inventories. Since the Bukkit Inventory API is kept fairly simple, InventoryX makes it easy to create
 
