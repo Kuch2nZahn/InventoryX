@@ -45,7 +45,7 @@ Unfortunately, an import via Gradle is not available at the moment. Instead, you
 | Version | Paper | Spigot |
 |---------|-------|--------|
 | 1.19.1  |   ❌    |   ❌     |
-| 1.19.0  | ✅     |    ✅    |
+| 1.19  | ✅     |    ✅    |
 
 
 
