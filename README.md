@@ -1,4 +1,4 @@
-# Inventory X
+# InventoryX
 
 ## What is InventoryX?
 
