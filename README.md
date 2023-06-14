@@ -1,4 +1,9 @@
-# InventoryX
+# Outdated
+This repository is no longer up to date. However, there is a newer plugin, with which even more menus, and even more design options can be implemented!
+
+# [Click here to go to the newer version](https://github.com/TheWebcode/Y)
+
+## Inventory X
 
 ## What is InventoryX?
 
